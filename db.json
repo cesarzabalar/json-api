@@ -1,0 +1,13 @@
+{
+  "data": {
+      "status": true,
+      "url": "https://www.facebook.com/codeexample/posts/512205350145822",
+      "time": "2021-04-21"
+    
+  },
+  "error": {
+      "status": false,
+      "url": "",
+      "time": "2021-04-21"
+  }
+}
